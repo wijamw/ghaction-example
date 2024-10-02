@@ -18,4 +18,4 @@ hostname = "sib.seal.or.id"
 expiry_date = get_ssl_expiry_date(hostname)
 print(f"SSL certificate for {hostname} expires on: {expiry_date}")
 
-# Test edit
+
